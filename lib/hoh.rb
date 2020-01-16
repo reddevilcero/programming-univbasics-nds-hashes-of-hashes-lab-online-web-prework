@@ -71,5 +71,7 @@ def naming_system
    }
  }
 
+ life_in_heart = PORTION_1
+
  return life_in_heart
 end
