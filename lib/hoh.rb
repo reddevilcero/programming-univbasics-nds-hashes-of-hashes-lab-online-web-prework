@@ -42,28 +42,27 @@ def naming_system
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
 
-  live_in_heart =
 
   #  MY LITERAL HoH
- # life_in_heart = {
- #   label: "Kingdom",
- #   sub_category: {
- #     label: "Phylum",
- #     sub_category:{
- #       label:"Class",
- #       sub_category:{
- #         label: "Order",
- #         sub_category:{
- #           label:"Family",
- #           sub_category:{
- #             label:"Genus",
- #             sub_category:PORTION_4
- #           }
- #         }
- #       }
- #     }
- #   }
- # }
+ life_in_heart = {
+   label: "Kingdom",
+   sub_category: {
+     label: "Phylum",
+     sub_category:{
+       label:"Class",
+       sub_category:{
+         label: "Order",
+         sub_category:{
+           label:"Family",
+           sub_category:{
+             label:"Genus",
+             sub_category:PORTION_4
+           }
+         }
+       }
+     }
+   }
+ }
 
  return life_in_heart
 end
