@@ -20,7 +20,7 @@ PORTION_3 = {
 }
 
 PORTION_2 = {
-  label: "Order"
+  label: "Order",
   sub_category: PORTION_3
 }
 
