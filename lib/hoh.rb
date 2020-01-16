@@ -42,7 +42,7 @@ def naming_system
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
 
-  live_in_heart = PORTION_1
+  life_in_heart = PORTION_1
 
   #  MY LITERAL HoH
  # life_in_heart = {
